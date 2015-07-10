@@ -10,7 +10,7 @@ The function level API documentation and function implementation documentation i
 in this file.
 */
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include "UIComponents.h"
 
 Button::Button(int x,int y,int width, int height){

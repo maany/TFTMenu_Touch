@@ -1,4 +1,5 @@
 #include "TFTMenu.h"
+#include "UIComponents.h"
 void setup() {
   // put your setup code here, to run once:
   Tile tile;

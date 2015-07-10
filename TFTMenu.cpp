@@ -9,7 +9,7 @@ and class level API documentation.
 The function level API documentation and function implementation documentation is included
 in this file.
 */
-#include "stdafx.h"
+//#include "stdafx.h"
 #include "TFTMenu.h"
 //========================================
 // definitions for functions in Tile class
